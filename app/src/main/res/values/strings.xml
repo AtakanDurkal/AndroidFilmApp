@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Odev3</string>
+    <string name="Dark_exorcist">Peter Roman is a police officer on what should be a typical disturbance call.
+        He encounters a teenage girl who is anything but typical.
+        Only by defeating their own monsters will they survive the night.</string>
+    <string name="GeorgeOrwell">Nineteen Eighty-Four is a rare work that grows more haunting as its  purgatory becomes more real.
+        Published in 1949,the book offers political satirist Orwell\'s nightmarish vision of a totalitarian
+         world and  find individuality.</string>
+    <string name="bookName_Dark_exorcist">Dark Exorcist</string>
+    <string name="bookName_1984">1984</string>
+    <string name="valueExorcist">6.5</string>
+    <string name="value1984">7.5</string>
+    <string name="writerExorcist">William Peter Blatty</string>
+    <string name="writer1984">George Orwell </string>
+</resources>
